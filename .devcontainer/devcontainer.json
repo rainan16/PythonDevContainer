@@ -43,7 +43,8 @@
 				"KevinRose.vsc-python-indent",
 				"almenon.arepl",
 				"DavidAnson.vscode-markdownlint",
-				"donjayamanne.githistory"
+				"donjayamanne.githistory",
+				"bierner.markdown-mermaid"
 			]
 		}
 	},

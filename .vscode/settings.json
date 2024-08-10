@@ -1,9 +1,14 @@
 {
     "cSpell.words": [
-        "autopep",
-        "debugpy",
         "devcontainer",
-        "devcontainers",
-        "pycache"
+        "devcontainers"
+    ],
+    "cSpell.ignorePaths": [
+        "requirements.txt",
+        ".devcontainer",
+        ".git/objects",
+        ".github/workflows",
+        ".vscode",
+        ".vscode-insiders"
     ]
 }

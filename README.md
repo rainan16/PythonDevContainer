@@ -25,3 +25,6 @@ Command/Ctrl + Shift + P
 Just run ▶️ "Python: Flask in devcontainer" from the VSCode Debug menu on the left
 
 ## Extension in devcontainer
+
+Extension that are automatically installed in the devcontainer see:
+[devcontainer.json (customizations/vscode/extensions)](.devcontainer/devcontainer.json)
