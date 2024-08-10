@@ -22,19 +22,22 @@
 						"icon": "terminal-bash"
 					},
 					"zsh": {
-						"path": "zsh"
-					},
-					"pwsh": {
-						"path": "pwsh",
-						"icon": "terminal-powershell"
+						"path": "zsh",
+						"icon": "terminal-linux"
 					}
-				}
+				},
+				"flake8.ignorePatterns": [
+					"**/site-packages/**/*.py",
+					".vscode/*.py",
+					"__pycache__"
+				]
 			},
 			"extensions": [
 				"streetsidesoftware.code-spell-checker",
 				"ms-python.python",
 				"ms-python.autopep8",
 				"ms-python.debugpy",
+				"ms-python.flake8",
 				"njpwerner.autodocstring",
 				"njqdev.vscode-python-typehint",
 				"KevinRose.vsc-python-indent",

@@ -3,7 +3,7 @@
     "configurations": [
         {
             "name": "Python: Flask in devcontainer",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "module": "flask",
             "env": {
