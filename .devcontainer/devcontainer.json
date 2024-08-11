@@ -44,7 +44,8 @@
 				"almenon.arepl",
 				"DavidAnson.vscode-markdownlint",
 				"donjayamanne.githistory",
-				"bierner.markdown-mermaid"
+				"bierner.markdown-mermaid",
+				"humao.rest-client"
 			]
 		}
 	},

@@ -10,5 +10,8 @@
         ".github/workflows",
         ".vscode",
         ".vscode-insiders"
-    ]
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    }
 }
