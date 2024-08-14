@@ -11,6 +11,9 @@
         ".vscode",
         ".vscode-insiders"
     ],
+    "flake8.args": [
+        "--max-line-length=120"
+    ],    
     "[python]": {
         "editor.defaultFormatter": "ms-python.autopep8"
     }
