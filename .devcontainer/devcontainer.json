@@ -54,6 +54,7 @@
 				"ms-python.autopep8",
 				"ms-python.debugpy",
 				"ms-python.flake8",
+				"ms-python.vscode-pylance",
 				"njpwerner.autodocstring",
 				"njqdev.vscode-python-typehint",
 				"KevinRose.vsc-python-indent",
