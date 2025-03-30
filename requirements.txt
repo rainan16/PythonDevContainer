@@ -1,6 +1,8 @@
 ## Flask server ###
-flask
+flask==3.0.2
 
 ## Unit tests ###
 #pytest
 #pytest-coverage
+
+pytest==8.0.2

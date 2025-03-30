@@ -10,6 +10,6 @@ POST http://localhost:9000/hello HTTP/1.1
 content-type: application/json
 
 {
-    "nameb": "Mr. Devcontainer",
-    "timestamp": "Sun, 11 Aug 2024 11:47:50 GMT"
+    "name": "Mr. Devcontainer",
+    "timestamp": "2024-08-11T11:47:50"
 }
